@@ -1,5 +1,6 @@
 ### Oláaa! me chamo Maria Eduarda Borges, seja bem-vindo(a) :)
 
+  ![Snake animation](https://github.com/dudaborges/dudaborges/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/dudaborges">
