@@ -11,7 +11,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,figma,ps,postgresql,firebase,java,python,git " />
+    <img src="https://skillicons.dev/icons?i=python,java,postgresql,firebase,react,javascript,html,css,figma,ps,git " />
   </a>
 </p>
   
