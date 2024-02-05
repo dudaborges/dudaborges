@@ -1,4 +1,4 @@
-## Oláaa! Me chamo Maria Eduarda Borges, seja bem-vindo(a) :)
+## Olá! Me chamo Maria Eduarda Borges, seja bem-vindo(a) :)
 
 
 
@@ -11,13 +11,10 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgresql,mysql,javascript,vue,figma,ps,git,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,javascript,vue,figma,ps,git,docker,aws,azure" />
   </a>
 </p>
   
-  ##
-  
-   ![Snake animation](https://github.com/dudaborges/dudaborges/blob/output/github-contribution-grid-snake.svg)
 </div>
 
  #### Redes Sociais
