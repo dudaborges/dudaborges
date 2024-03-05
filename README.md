@@ -1,12 +1,6 @@
 ## Olá! Me chamo Maria Eduarda Borges, seja bem-vindo(a) :)
 
-
-
-<div align="center">
-  <a href="https://github.com/dudaborges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaborges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaborges&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+### Technologies
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
