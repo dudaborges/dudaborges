@@ -28,15 +28,7 @@
 ## :mag_right:	 Analyzes
 
 <div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical)  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical)
-
-  <img height="170em"
-    src="https://github-readme-streak-stats.herokuapp.com?user=dudaborges&theme=radical&hide_border=true)](https://git.io/streak-stats" 
-  />
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaborges&layout=compact&langs_count=7&theme=radical" 
-  />    
 </div>
-
-
