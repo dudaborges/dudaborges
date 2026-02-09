@@ -1,19 +1,14 @@
-# :wave:	 Hello! My name is Maria Eduarda Borges, welcome. :)
+# :wave: Hello, I'm Maria Eduarda Borges. Welcome! :)
 
 ## :technologist: Technologies
 
-<div style="display: inline_block" align="center"><br>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript,javascript,react,vue,docker,kubernetes,linux,aws,azure,postgresql,mysql,mongodb,firebase,git,github" />
-  </a>
-</p>
-  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript,javascript,react,vue,docker,kubernetes,linux,aws,azure,postgresql,mysql,mongodb,firebase,git,github" alt="Minhas Tecnologias" />
 </div>
-
- ## :calling: Connect With Me
   
-<div>
+## :calling: Connect With Me
+  
+<div align="center">
   <a href="https://instagram.com/pb.duda" target="_blank"><img 
     src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     target="_blank"></a>
@@ -25,10 +20,8 @@
     target="_blank"></a>
 </div>
 
-## :mag_right:	 Analyzes
+## :mag_right: Analyzes
 
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical)  
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical" alt="GitHub Stats" />
 </div>
