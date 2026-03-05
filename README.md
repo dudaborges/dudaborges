@@ -1,12 +1,19 @@
 # :wave: Hello, I'm Maria Eduarda Borges. Welcome! :)
+:computer: Full Stack Developer focused on Python, JavaScript, and Cloud.
 
-## :technologist: Technologies
+## :technologist: Tech Stack
 
 <div>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript,javascript,react,vue,docker,kubernetes,linux,aws,azure,postgresql,mysql,mongodb,firebase,git,github" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript,javascript,react,vue,docker,kubernetes,linux,aws,azure,postgresql,mysql,mongodb,firebase,git,github" alt="Tech Stack" />
 </div>
-  
-## :calling: Connect With Me
+
+## :mag_right: GitHub Stats
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical" alt="GitHub Stats" />
+</div>
+
+## :calling: Connect with me
   
 <div>
   <a href="https://instagram.com/pb.duda" target="_blank"><img 
@@ -18,10 +25,4 @@
   <a href="mailto:duda.pborges92@gmail.com"><img 
     src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
     target="_blank"></a>
-</div>
-
-## :mag_right: Analyzes
-
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaborges&theme=radical" alt="GitHub Stats" />
 </div>
